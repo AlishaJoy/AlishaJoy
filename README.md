@@ -15,6 +15,7 @@
 - 📫 How to reach me **alishajoy.2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qJbKtyR9g1Wx4ElmsaknF5GJXdgIP3re/view?usp=drivesdk](https://drive.google.com/file/d/1qJbKtyR9g1Wx4ElmsaknF5GJXdgIP3re/view?usp=drivesdk)
+- [ https://drive.google.com/file/d/1Fvwv_Gt1XxRdGlIbe9P9isJ_HYJbdnGd/view?usp=drivesdk]( https://drive.google.com/file/d/1Fvwv_Gt1XxRdGlIbe9P9isJ_HYJbdnGd/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
