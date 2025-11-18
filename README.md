@@ -6,17 +6,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishajoy&label=Profile%20views&color=0e75b6&style=flat" alt="alishajoy" /> </p>
 
-- 🔭 I’m currently working as **Trainee Engineer at Angstromers**
+- 🔭 I’m currently working as **Junior Research Fellow @CSD, National Institute Of Technology(NIT) Karnataka**
 
-- 🌱 I’m currently learning **CNN models and Deep Learning.**
+- 🌱 I’m currently learning **3D modelling, Generative-AI, Satellite Image Processing**
 
-- 💬 Ask me about **Llama models,Prompt generation,image processing**
+- 💬 Ask me about **Image processing, Web development, 3D modelling, AI-chat bots, Machine learning**
 
 - 📫 How to reach me **alishajoy.2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qJbKtyR9g1Wx4ElmsaknF5GJXdgIP3re/view?usp=drivesdk](https://drive.google.com/file/d/1qJbKtyR9g1Wx4ElmsaknF5GJXdgIP3re/view?usp=drivesdk)
-- [ https://drive.google.com/file/d/1Fvwv_Gt1XxRdGlIbe9P9isJ_HYJbdnGd/view?usp=drivesdk]( https://drive.google.com/file/d/1Fvwv_Gt1XxRdGlIbe9P9isJ_HYJbdnGd/view?usp=drivesdk)
+- Explore my portfolio @(https://alishajoy.github.io/Portfolio/)
 
+- [RESUME](https://drive.google.com/file/d/1GXacqkoB7l01Cw2uDdxVakgXlX_TvaAT/view?usp=drive_link)
+  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qJbKtyR9g1Wx4ElmsaknF5GJXdgIP3re/view?usp=drivesdk](https://drive.google.com/file/d/1qJbKtyR9g1Wx4ElmsaknF5GJXdgIP3re/view?usp=drivesdk)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alisha-joy-a-40629b25a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alisha-joy-a-40629b25a/" height="30" width="40" /></a>
