@@ -33,11 +33,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlishaJoy&show_icons=true&locale=en&layout=compact" alt="alishajoy" /></p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlishaJoy&show_icons=true&locale=en)
+
 ![GitHub Skyline](https://skyline.github.com/AlishaJoy.png)
 
-<p>### My Commit Streak
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=AlishaJoy&theme=dark)](https://git.io/streak-stats)</p>
+<img src="https://github-profile-trophy.vercel.app/?username=AlishaJoy&theme=onedark" />
 
-<p>### My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaJoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+![GitHub Contribution Graph](https://ghchart.rshah.org/AlishaJoy)
 
