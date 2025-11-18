@@ -34,9 +34,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlishaJoy&show_icons=true&locale=en)
 
-![GitHub Skyline](https://skyline.github.com/AlishaJoy.png)
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlishaJoy&theme=onedark" />
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/AlishaJoy)
 
