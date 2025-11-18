@@ -32,4 +32,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlishaJoy&show_icons=true&locale=en&layout=compact" alt="alishajoy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlishaJoy&show_icons=true&locale=en" alt="AlishaJoy" /></p>
+<p>![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlishaJoy&show_icons=true&locale=en)</p>
+
+<p>### My Commit Streak
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=AlishaJoy&theme=dark)](https://git.io/streak-stats)</p>
+
+<p>### My Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaJoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+
